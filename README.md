@@ -1,2 +1,4 @@
-# Ola Mundo
-Primeiro Repositorio
+# Ola Mundo!
+Primeiro Repositorio Git GitHub
+Repositório criado duarante a aula ao vivo.
+
